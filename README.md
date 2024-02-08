@@ -1,16 +1,16 @@
-**BMI Calculator Flutter App**
+# **BMI Calculator Flutter App**
 
-**Description:**
+## **Description:**
 This repository contains the source code for a BMI Calculator Flutter app. This mobile application allows users to calculate their Body Mass Index (BMI) quickly and easily. It provides personalized insights, health tips, and displays the ideal weight range based on the user's input.
 
-**Features:**
+## **Features:**
 - User-friendly interface for easy navigation.
 - Input fields for age, height, weight, and gender.
 - Calculation of BMI based on provided data.
 - Personalized health tips and suggestions based on BMI.
 - Display of ideal weight range based on user's height.
 
-**Screenshots:**
+## **Screenshots:**
 
 ### Screenshot 1: Home Screen with Input Fields
 
@@ -25,19 +25,19 @@ This repository contains the source code for a BMI Calculator Flutter app. This 
 </p>
 
 
-**Note:**
+## **Note:**
 
 
-**Usage:**
+## **Usage:**
 1. Clone the repository to your local machine.
 2. Open the project in Android Studio or any Flutter-compatible IDE.
 3. Run the app on an emulator or physical device.
 
-**Contributing:**
+## **Contributing:**
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
 
-**License:**
+## **License:**
 This project is licensed under the [MIT License](LICENSE).
 
-**Acknowledgements:**
+## **Acknowledgements:**
 Special thanks to the Flutter community and contributors for their valuable resources and support.
