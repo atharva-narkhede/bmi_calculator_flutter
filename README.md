@@ -12,12 +12,20 @@ This repository contains the source code for a BMI Calculator Flutter app. This 
 
 **Screenshots:**
 
+### Screenshot 1: Home Screen with Input Fields
+
 <p align="center">
-  <img src="https://github.com/atharva-narkhede/bmi_calculator_flutter/assets/106006803/9f3c4355-4a3e-45d6-8858-ef743adb32bb" width="300">
-  *Screenshot 1: Home Screen with Input Fields*
-  <img src="https://github.com/atharva-narkhede/bmi_calculator_flutter/assets/106006803/e4b05119-7876-4c0e-83a6-c69a625b480c" width="300">
-  *Screenshot 2: BMI Calculation Result with Health Tips*
+ <img src="https://github.com/atharva-narkhede/bmi_calculator_flutter/assets/106006803/9f3c4355-4a3e-45d6-8858-ef743adb32bb" width="200">  
 </p>
+
+### Screenshot 2: BMI Calculation Result with Health Tips
+
+<p align="center">
+  <img src="https://github.com/atharva-narkhede/bmi_calculator_flutter/assets/106006803/e4b05119-7876-4c0e-83a6-c69a625b480c" width="200">
+</p>
+
+
+**Note:**
 
 
 **Usage:**
