@@ -1,16 +1,35 @@
-# bmi_calculator
+**BMI Calculator Flutter App**
 
-BMI Calculator
+**Description:**
+This repository contains the source code for a BMI Calculator Flutter app. This mobile application allows users to calculate their Body Mass Index (BMI) quickly and easily. It provides personalized insights, health tips, and displays the ideal weight range based on the user's input.
 
-## Getting Started
+**Features:**
+- User-friendly interface for easy navigation.
+- Input fields for age, height, weight, and gender.
+- Calculation of BMI based on provided data.
+- Personalized health tips and suggestions based on BMI.
+- Display of ideal weight range based on user's height.
 
-This project is a starting point for a Flutter application.
+**Screenshots:**
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <img src="https://github.com/atharva-narkhede/bmi_calculator_flutter/assets/106006803/9f3c4355-4a3e-45d6-8858-ef743adb32bb" width="300">
+  *Screenshot 1: Home Screen with Input Fields*
+  <img src="https://github.com/atharva-narkhede/bmi_calculator_flutter/assets/106006803/e4b05119-7876-4c0e-83a6-c69a625b480c" width="300">
+  *Screenshot 2: BMI Calculation Result with Health Tips*
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Usage:**
+1. Clone the repository to your local machine.
+2. Open the project in Android Studio or any Flutter-compatible IDE.
+3. Run the app on an emulator or physical device.
+
+**Contributing:**
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
+
+**License:**
+This project is licensed under the [MIT License](LICENSE).
+
+**Acknowledgements:**
+Special thanks to the Flutter community and contributors for their valuable resources and support.
